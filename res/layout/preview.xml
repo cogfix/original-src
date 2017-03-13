@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:id="@id/textView101" android:layout_width="-2" android:layout_height="-2" android:text="Total number of Settlement saved:" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+    <ScrollView android:id="@id/ScrollView02" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView29" android:layout_width="-2" android:layout_height="-2" android:text="Phss Team code" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPhssTeamCode" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView29" android:layout_alignParentLeft="true" android:inputType="2" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView1" android:layout_width="-2" android:layout_height="-2" android:text="@string/state" android:width="200dp" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextState" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="200dp" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView1" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView2" android:layout_width="-2" android:layout_height="-2" android:text="@string/stateCode" android:width="200dp" android:layout_toRightOf="@id/textView1" />
+                <EditText android:id="@id/editTextStateCode" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-2" android:layout_height="-2" android:cursorVisible="false" android:width="200dp" android:layout_toRightOf="@id/edittextState" android:layout_below="@id/textView2" android:inputType="2" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView3" android:layout_width="-2" android:layout_height="-2" android:text="@string/lga" android:width="200dp" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editetextLga" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="200dp" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView3" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView4" android:layout_width="-2" android:layout_height="-2" android:text="@string/lgaCode" android:width="200dp" android:layout_toRightOf="@id/textView3" />
+                <EditText android:id="@id/edittextLgaCode" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-2" android:layout_height="-2" android:cursorVisible="false" android:width="200dp" android:layout_toRightOf="@id/editetextLga" android:layout_below="@id/textView4" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView5" android:layout_width="-2" android:layout_height="-2" android:text="@string/ward" android:width="200dp" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextWard" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="200dp" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView5" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView6" android:layout_width="-2" android:layout_height="-2" android:text="@string/wcode" android:width="200dp" android:layout_toRightOf="@id/textView5" />
+                <EditText android:id="@id/edittextWardCode" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-2" android:layout_height="-2" android:cursorVisible="false" android:width="200dp" android:layout_toRightOf="@id/edittextWard" android:layout_below="@id/textView6" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView7" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextSettlementName" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView7" android:layout_alignParentLeft="true" android:inputType="1001" />
+                <TextView android:id="@id/textView8" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementOtherName" android:layout_below="@id/edittextSettlementName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextSettlementOtherName" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView8" android:layout_alignParentLeft="true" android:inputType="1001" />
+                <TextView android:id="@id/textView20" android:layout_width="-2" android:layout_height="-2" android:text="Settlement code" android:layout_below="@id/edittextSettlementOtherName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editTextSettlementCode" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView20" android:layout_alignParentLeft="true" android:inputType="1001" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView19" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementPopulation" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editextSettlementPopulation" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView19" android:layout_alignParentLeft="true" android:inputType="2002" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView9" android:layout_width="-2" android:layout_height="-2" android:text="@string/location" android:width="180dp" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextLocation" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="180dp" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView9" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView10" android:layout_width="-2" android:layout_height="-2" android:text="@string/type" android:width="200dp" android:layout_toRightOf="@id/textView9" />
+                <EditText android:id="@id/edittextType" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="150dp" android:layout_height="-2" android:cursorVisible="false" android:layout_toRightOf="@id/edittextLocation" android:layout_below="@id/textView10" />
+                <TextView android:id="@id/textView11" android:layout_width="-2" android:layout_height="-2" android:text="@string/risk" android:width="200dp" android:layout_below="@id/edittextType" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextRisk" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView11" android:layout_alignParentLeft="true" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView12" android:layout_width="-2" android:layout_height="-2" android:text="@string/hardToReach" android:width="100dp" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextHardToReach" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView12" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView14" android:layout_width="-2" android:layout_height="-2" android:text="@string/resoneForFardToReach" android:width="200dp" android:layout_below="@id/edittextHardToReach" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextReasonHardToReach" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView14" android:layout_alignParentLeft="true" android:inputType="1001" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView15" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementHeadName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextSettlementHeadName" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView15" android:layout_alignParentLeft="true" android:inputType="1001" />
+                <TextView android:id="@id/textView16" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementHeadPhone" android:layout_below="@id/edittextSettlementHeadName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextSettlementHeadPhone" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView16" android:layout_alignParentLeft="true" android:inputType="3" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView17" android:layout_width="-2" android:layout_height="-2" android:text="Settlement latitiude" android:width="150dp" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextSettlementLatitude" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView17" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView18" android:layout_width="-2" android:layout_height="-2" android:text="Settlement longitiude" android:layout_below="@id/edittextSettlementLatitude" />
+                <EditText android:id="@id/edittextSettlementLongitude" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView18" android:layout_alignParentLeft="true" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView22" android:layout_width="-2" android:layout_height="-2" android:text="Point of interest genre" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPoiGenre" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView22" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView23" android:layout_width="-2" android:layout_height="-2" android:text="Point of interest genre  code" android:layout_below="@id/edittextPoiGenre" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPoiGenreCode" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView23" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView24" android:layout_width="-2" android:layout_height="-2" android:text="Point of interest type" android:layout_below="@id/edittextPoiGenreCode" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPoiType" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView24" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView25" android:layout_width="-2" android:layout_height="-2" android:text="Point of interest type code" android:layout_below="@id/edittextPoiType" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPoiTypeCode" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView25" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView26" android:layout_width="-2" android:layout_height="-2" android:text="Point of interest name" android:layout_below="@id/edittextPoiTypeCode" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPoiName" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView26" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView27" android:layout_width="-2" android:layout_height="-2" android:text="Point of interest latitiude" android:layout_below="@id/edittextPoiName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPoiLatitiude" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView27" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView28" android:layout_width="-2" android:layout_height="-2" android:text="Point of interest longititude" android:layout_below="@id/edittextPoiLatitiude" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/edittextPoiLongititude" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-1" android:layout_height="-2" android:cursorVisible="false" android:layout_below="@id/textView28" android:layout_alignParentLeft="true" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:id="@id/buttonEdit" android:layout_width="-2" android:layout_height="-2" android:text="Edit" android:width="150dp" android:layout_alignParentLeft="true" />
+                <Button android:id="@id/buttonConfirm" android:layout_width="-2" android:layout_height="-2" android:text="Confirm" android:width="150dp" android:layout_toRightOf="@id/buttonEdit" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

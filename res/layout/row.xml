@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="@id/iconr" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" android:contentDescription="@string/poiicon" />
+    <TextView android:id="@id/label" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" />
+</LinearLayout>

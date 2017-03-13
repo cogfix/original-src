@@ -1,0 +1,460 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: npSbiJuN9HrUEyC6j8VS1vw/6v8=
+
+Name: res/drawable-xhdpi/ic_motor_park.png
+SHA1-Digest: h27qczPcoMSDQLuuZwYMKE+1Jr8=
+
+Name: res/drawable-hdpi/ic_school.png
+SHA1-Digest: qc1z5zTF8TQeEeyJqgiREG45RWs=
+
+Name: assets/hgis.mp3
+SHA1-Digest: 5AtltMDavogBzimTGYVsETKEfc8=
+
+Name: res/drawable-mdpi/ic_health_facilty.png
+SHA1-Digest: jlnhnBczQ5H9CB42UaE0mkgFXvA=
+
+Name: res/layout/summary.xml
+SHA1-Digest: EiItDWHx6wUBoarf8ZcGRbFJOwE=
+
+Name: res/drawable-ldpi/ic_market.png
+SHA1-Digest: ruFjpWyrjZ4Mxja1Rvwoi/mded8=
+
+Name: res/drawable-xhdpi/ic_street.png
+SHA1-Digest: vvCxz1c/mDNIfdsH54IX9shG5yo=
+
+Name: res/drawable-ldpi/ic_settlement.png
+SHA1-Digest: H4J605TlD0fGvU6CbVckVPko1zQ=
+
+Name: res/drawable-hdpi/ic_stadium.png
+SHA1-Digest: xrPLqKdY8JU5YeIzNeDCGUaoync=
+
+Name: res/drawable-hdpi/ic_ward_head.png
+SHA1-Digest: QNMdUrG/3xI1HsdCkD2fTPQ6XGw=
+
+Name: res/layout/dheadhouse.xml
+SHA1-Digest: +aelg6YSaKZSowELaPDsQnLjb60=
+
+Name: res/drawable-hdpi/ic_market.png
+SHA1-Digest: AoKEVgbXsp/jsUY2QSdZvgu1CAU=
+
+Name: assets/state_lga_word.csv
+SHA1-Digest: cc0f9Accgy0i+lVOeNPgThEWgdk=
+
+Name: res/drawable-mdpi/ic_district_head_house.png
+SHA1-Digest: 74GA0ppbUtZcLt1C25kpmFxMxn8=
+
+Name: res/layout/settlement.xml
+SHA1-Digest: jNLs1sAz9jxXZ9wrv7u1BxTRd34=
+
+Name: res/drawable-mdpi/ic_street.png
+SHA1-Digest: cVeIqyMQ7PBOv++dRKd5Qwn1Ycs=
+
+Name: res/drawable-mdpi/ic_view.png
+SHA1-Digest: x8cnQjBKbDZ5mcncxXdv5cJrckM=
+
+Name: res/drawable-xhdpi/ic_school.png
+SHA1-Digest: jq51pplcXiimqkUh6+DYTOsX7Rw=
+
+Name: res/drawable-xhdpi/ic_view.png
+SHA1-Digest: sms+Qmgi2k/sq8BOPKE/k79TEQw=
+
+Name: res/drawable-ldpi/ic_playground.png
+SHA1-Digest: GaKuwcffcaJ/fQXXEktG/9Wb8rs=
+
+Name: res/drawable-ldpi/ic_church.png
+SHA1-Digest: kH49oUT79WKASnPlwI4+p+ODvEs=
+
+Name: res/drawable-xhdpi/ic_edit.png
+SHA1-Digest: tVqh3wuet6DohwApnfhuVVhjjYw=
+
+Name: res/layout/mosque.xml
+SHA1-Digest: jpoEcwDPHPwEVLRvRSRAAQwuRnM=
+
+Name: res/drawable-hdpi/ic_street.png
+SHA1-Digest: dm0G6DrP3A2ZGU8rnzzodi23SiM=
+
+Name: res/drawable-hdpi/ic_major_building.png
+SHA1-Digest: SyxyQCIy1CyFOj3M4WINQJNh6Ws=
+
+Name: res/layout/tvstation.xml
+SHA1-Digest: xFuJ/tEwnG18MarzLZO3UrAkf+g=
+
+Name: res/drawable-hdpi/ic_chemist.png
+SHA1-Digest: GvUD7L+Zu3qCpm1PFngooBIP45g=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Bx6P22KfhN6dyTzjNmUY8AuS/OU=
+
+Name: res/drawable-mdpi/ic_school.png
+SHA1-Digest: IoGnNdhxrEcGQW633KB2RIdE9ds=
+
+Name: res/drawable-ldpi/ic_school.png
+SHA1-Digest: b+sQc9jPKSzplvnus6JGH6rLZKE=
+
+Name: res/layout/citypoint.xml
+SHA1-Digest: OgCgaOA0WY1GS/hgi167rWdFkbE=
+
+Name: res/drawable-hdpi/ic_divider.png
+SHA1-Digest: yGWeDLCUtQFd3++xeTloVtbQF50=
+
+Name: res/drawable-xhdpi/ic_chemist.png
+SHA1-Digest: Mgopa9s3tQQWdwARvUrifQN8AMU=
+
+Name: resources.arsc
+SHA1-Digest: Rf+BfCGhDcGpgi/nsuk2VVuLVuQ=
+
+Name: res/drawable-mdpi/ic_church.png
+SHA1-Digest: dSB2BbsFqibyhYI67PojZG88O44=
+
+Name: res/drawable-ldpi/ic_motor_park.png
+SHA1-Digest: gnuBR4wLJI0CLtBcSNqnpFQ19UE=
+
+Name: res/drawable-ldpi/ic_mosque.png
+SHA1-Digest: Ed5dLNnGL2jtxdPu9j5E1gGIUYg=
+
+Name: res/drawable-xhdpi/ic_market.png
+SHA1-Digest: X7JVI2b20BaqTboqQlGrlkp3K6c=
+
+Name: AndroidManifest.xml
+SHA1-Digest: HmGnJ1uC72gzSHMJVZDItZZmw0A=
+
+Name: res/layout/preview.xml
+SHA1-Digest: yB/vnty/RZW0T2UWCY/3B/HVy28=
+
+Name: res/drawable-mdpi/ic_ward_head.png
+SHA1-Digest: PI6k9ID/E6c7vdLXS2ZuhlnG3ik=
+
+Name: res/layout/roadstreet.xml
+SHA1-Digest: Chp/AUurwNJEhvn8ub3gyStqa8w=
+
+Name: res/layout/water.xml
+SHA1-Digest: OU2XCfzD5xq6+8o+BcXh4zk2+RU=
+
+Name: res/drawable-hdpi/ic_health_facilty.png
+SHA1-Digest: 98twCi1O6pzACExtO2oQBITnqqk=
+
+Name: res/drawable-xhdpi/ic_major_building.png
+SHA1-Digest: V43FVJw42E1ofyyRLrNUsui1/UU=
+
+Name: res/drawable-hdpi/ic_market_place.png
+SHA1-Digest: j1+j1c0Mvjq7rtWaOgr1XFfliI0=
+
+Name: res/layout/motorpark.xml
+SHA1-Digest: UUzVr/RG3fnuOKo1DVr3t3kIH5I=
+
+Name: res/drawable-hdpi/phss.jpg
+SHA1-Digest: B0dhw1O2v1GdciVx1y7dCWVC/30=
+
+Name: res/drawable-xhdpi/ic_water_point.png
+SHA1-Digest: te1eV8EvK6rl3pQSsRWRNWGipL4=
+
+Name: res/drawable-mdpi/ic_major_building.png
+SHA1-Digest: 1jpk9aK/MZypKxGlnv/HhvQJIrU=
+
+Name: res/drawable-ldpi/ic_major_building.png
+SHA1-Digest: FipuKTIev9DZdBMgC+MzUYs8jt4=
+
+Name: res/drawable-hdpi/ic_mosque.png
+SHA1-Digest: YjA+w2s1VfC4SEfgVoQQQTJ6FDw=
+
+Name: res/drawable-hdpi/ic_view.png
+SHA1-Digest: cHFfWYkpKQqpCTMZJ9T3I7xqicQ=
+
+Name: res/drawable-xhdpi/ic_divider.png
+SHA1-Digest: e1awc26amtR0ljf/x+sjMuICLD0=
+
+Name: res/drawable-ldpi/ic_divider.png
+SHA1-Digest: ZK/ehHy8qy/MDAZpyDACQ9XTZ6s=
+
+Name: res/drawable-ldpi/ic_village_head_house.png
+SHA1-Digest: tDTG9wHZMG61dc1Zrmna5VDkMbA=
+
+Name: res/drawable-xhdpi/ic_television.png
+SHA1-Digest: wuyDkaf3ht2sprbA4aKLeI+Kj+o=
+
+Name: res/drawable-ldpi/ic_stadium.png
+SHA1-Digest: X6gYh8yoeDfJbyQDsosuIrFrJ4s=
+
+Name: classes.dex
+SHA1-Digest: j8skWNHHosX2hO5XaOAS5KfelgE=
+
+Name: res/drawable-hdpi/ic_restaurant.png
+SHA1-Digest: +quz+BtYUADrf/Z5TemQhf/F1lY=
+
+Name: res/drawable-xhdpi/ic_restaurant.png
+SHA1-Digest: s97e6hAffaQpqus3CfXkH437tZY=
+
+Name: res/drawable-mdpi/ic_market.png
+SHA1-Digest: VkkUOsOQOaniWFz5HfMnzOG2hOU=
+
+Name: res/drawable-hdpi/ic_district_head_house.png
+SHA1-Digest: F9/o7rP5aCsywY0KID9UckeIw3U=
+
+Name: res/menu/optmenu.xml
+SHA1-Digest: /hwXX7lejD1v0CsUyNsf9tImzYg=
+
+Name: res/drawable-hdpi/ic_rail_crossing.png
+SHA1-Digest: fqvrz41F1vOCd6ELCibS0+/mqWY=
+
+Name: res/drawable-ldpi/ic_ward_head.png
+SHA1-Digest: gXaSv6HRe6AU02D64ixR+zRT5Gc=
+
+Name: res/drawable-hdpi/ic_water_point.png
+SHA1-Digest: p+DCoZZDp/C9Ud2nOykI/YgSn7s=
+
+Name: res/layout/whead.xml
+SHA1-Digest: Xy+YVjemUeAxwcsl6mI7ezKmaUI=
+
+Name: res/drawable-ldpi/phss.jpg
+SHA1-Digest: UbSeT1Cygq8xwhBBUS7EYGUI0TM=
+
+Name: res/drawable-mdpi/ic_city_point.png
+SHA1-Digest: s63IyRdHx0aLJn2mVA8ueaaHpZc=
+
+Name: res/drawable-mdpi/ic_restaurant.png
+SHA1-Digest: cFnM/e9aoYEbuRB2PiejfOtjE8E=
+
+Name: res/drawable-ldpi/ic_view.png
+SHA1-Digest: MKT+Ilci8S38fU1QuM0Wi6V80as=
+
+Name: res/drawable-xhdpi/ic_district_head_house.png
+SHA1-Digest: ECushme6G5nUZ6mvmSe+aBczR+8=
+
+Name: res/drawable-mdpi/ic_television.png
+SHA1-Digest: SpHPcLJRyOsGV9eZ09t14NCUxZA=
+
+Name: res/drawable-hdpi/ic_village_head_house.png
+SHA1-Digest: Y3UcbtlAV/ck9Ajzj6uRdxVa1rc=
+
+Name: res/layout/building.xml
+SHA1-Digest: eSYsXUY5F+uaUdKzt26GgwBSgUQ=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: cm9oLhgp+cdC90ez83wzChwdaOA=
+
+Name: res/drawable-ldpi/ic_shops.png
+SHA1-Digest: LNnafRSWEXOHOyk+GiBxe9vUsWo=
+
+Name: res/drawable-mdpi/ic_village_head_house.png
+SHA1-Digest: zS65A5Zr2LbUnkBpdGq2gm30Fdc=
+
+Name: res/drawable-xhdpi/ic_market_place.png
+SHA1-Digest: XtRco+2IAaEQzM8N4++VkAAtrxc=
+
+Name: res/layout/vheadhouse.xml
+SHA1-Digest: kkAFNkeoxTV0eaIMY93ms3uqkyg=
+
+Name: res/drawable-mdpi/ic_market_place.png
+SHA1-Digest: pNi2ehhUJkclacyA8BnldS0QXiA=
+
+Name: res/drawable-xhdpi/ic_church.png
+SHA1-Digest: T06ZLbp3/5+syb83Cl+QbsWpgb4=
+
+Name: res/drawable-xhdpi/ic_rail_crossing.png
+SHA1-Digest: 3IJPpVR+1KgY4hdkrB7oHt08W9Q=
+
+Name: res/layout/multiline_spinner_dropdown_item.xml
+SHA1-Digest: jumpxd9aZvIGID7Vu+CjE4CHjOE=
+
+Name: res/drawable-mdpi/ic_water_point.png
+SHA1-Digest: PFNpt27leM8YuiD8i9BruEAYHmE=
+
+Name: res/layout/settlementstart.xml
+SHA1-Digest: h5quCJVlkLCKL8p6881J7/0d8sU=
+
+Name: res/drawable-hdpi/ic_motor_park.png
+SHA1-Digest: EeaLF7o17ALl8ipecjyd1g3Rih8=
+
+Name: res/drawable-ldpi/ic_market_place.png
+SHA1-Digest: +HLmUn9mvGCD6GpT6piu3yh8jfE=
+
+Name: res/drawable-mdpi/ic_divider.png
+SHA1-Digest: QnPcnPclQIww32gz/Yyq7otCYhs=
+
+Name: res/drawable-ldpi/ic_television.png
+SHA1-Digest: nBaaHGDjPAEArwcedeO2p/Qg4e4=
+
+Name: res/drawable-mdpi/ic_motor_park.png
+SHA1-Digest: IA8yU8G3ZBLlXg/krrP14n0oecU=
+
+Name: res/drawable-hdpi/ic_settlement.png
+SHA1-Digest: W+7tDkCNCxl6PNQ64Fera/FSj6A=
+
+Name: res/drawable-hdpi/ic_playground.png
+SHA1-Digest: LkAlfoBWWh6mCDUB4Zj5xw2fkhQ=
+
+Name: res/drawable-xhdpi/ic_shops.png
+SHA1-Digest: EEOki+LLBkxj5n/IlR4pDjHgC5M=
+
+Name: res/layout/play_ground.xml
+SHA1-Digest: JMOLTlng105H5PfaxydkJcaZsxY=
+
+Name: res/drawable-hdpi/ic_other.png
+SHA1-Digest: dKZWAP3demBFtOZuukM+8hguHQk=
+
+Name: res/drawable-hdpi/ic_shops.png
+SHA1-Digest: IGNjhv6FszPRF6JBbIKruIax4+E=
+
+Name: res/layout/pharmacy.xml
+SHA1-Digest: JkhRHUUVRTkHtkkuRJJolzn+qS8=
+
+Name: res/drawable-xhdpi/ic_health_facilty.png
+SHA1-Digest: 9+UOQw1JONcIs+nTT8MXl3S5eC8=
+
+Name: res/drawable-ldpi/ic_other.png
+SHA1-Digest: CuJayfuFAb3Lpsj+KAarN/1N5rI=
+
+Name: res/drawable-ldpi/ic_rail_crossing.png
+SHA1-Digest: 55gc5d2w+OoM9OiLtZbycCSGKgA=
+
+Name: res/layout/view.xml
+SHA1-Digest: iRsCtTAISMTXMfXdTYipT8AUBr4=
+
+Name: res/drawable-mdpi/phss.jpg
+SHA1-Digest: YdqR7j6dMz4WDBDLpUlRIEyCUT8=
+
+Name: res/drawable-xhdpi/ic_other.png
+SHA1-Digest: HZPO62VDIY4dgndW11Rxcay/XdY=
+
+Name: res/drawable-xhdpi/ic_stadium.png
+SHA1-Digest: zEaKK4ymzkBZsfWSGq4fU43mPKg=
+
+Name: res/layout/suparmarket.xml
+SHA1-Digest: L/GCQUULnhPd23lLzs3HkK3e9qg=
+
+Name: res/drawable-ldpi/ic_health_facilty.png
+SHA1-Digest: YV8alpiKEbhGnhuZccyNXbpxq4s=
+
+Name: res/drawable-hdpi/ic_church.png
+SHA1-Digest: Av4RixEKnnjOlbnW7A6NtWaj4+8=
+
+Name: res/layout/main.xml
+SHA1-Digest: /IHsn172b3XVnji8GAfUfor1XzU=
+
+Name: res/drawable-hdpi/ic_television.png
+SHA1-Digest: LOWNtoSwmXnV67hflCWcDfhdmHg=
+
+Name: res/layout/market.xml
+SHA1-Digest: XrnpxHm2XT6OYUKfRssAK8h989s=
+
+Name: res/drawable-mdpi/ic_playground.png
+SHA1-Digest: JgTpoOOdo6yW0gi5i5LNdGGp1eg=
+
+Name: res/drawable-ldpi/ic_district_head_house.png
+SHA1-Digest: Z5sYQQf/1GSWyRV/ipJA9uSnx0Y=
+
+Name: res/drawable-xhdpi/ic_settlement.png
+SHA1-Digest: y9EmMLbJH9EMaTHvDvG9pERYtaA=
+
+Name: res/layout/restaurants.xml
+SHA1-Digest: Z+2q8/4nCn4ZBdnAAX/pdDpeXWE=
+
+Name: res/drawable-xhdpi/ic_city_point.png
+SHA1-Digest: nTfB/vQw6FsDlhMtIg8Gk0VMIPA=
+
+Name: res/menu/contextmenu.xml
+SHA1-Digest: KC1PFNM9O4fPxEUku6sz6dby0nI=
+
+Name: res/layout/poi.xml
+SHA1-Digest: P1uAvKF53PsmOB0ZNC9drEJa0NA=
+
+Name: res/drawable-xhdpi/phss.jpg
+SHA1-Digest: 5lcyNHouwHjIN2dVAWyppoSiWVs=
+
+Name: res/layout/row.xml
+SHA1-Digest: GR44qa04pgCOhLu5uGM37FM+DZs=
+
+Name: res/drawable-xhdpi/ic_village_head_house.png
+SHA1-Digest: wQ5VDnkiwtGNu1RJ0Dx/o/qJc6E=
+
+Name: res/layout/shops.xml
+SHA1-Digest: iGkf4qsxufe9DJbKcUlraiv8flY=
+
+Name: res/drawable-xhdpi/ic_playground.png
+SHA1-Digest: O9nMkbT0Ik/9aNxL6G3JPTy27NQ=
+
+Name: res/drawable-mdpi/ic_settlement.png
+SHA1-Digest: as6OJ47jD9AKntvMJVp5Qaymnvk=
+
+Name: res/drawable-ldpi/ic_street.png
+SHA1-Digest: cvttGPAlTvrW6iDMUB9m4JqSJwo=
+
+Name: res/layout/helth.xml
+SHA1-Digest: pe5Ut+m1DG1XFXo4FUKDAvBCaKQ=
+
+Name: res/drawable-mdpi/ic_chemist.png
+SHA1-Digest: Z0Es6sHtHMJcbwWoQiXk6ovPj+g=
+
+Name: res/drawable-ldpi/ic_city_point.png
+SHA1-Digest: 5hSwoVIEYrmR8kdjXUrmiMUyfxc=
+
+Name: res/drawable-mdpi/ic_other.png
+SHA1-Digest: dooehPDoNZ2XifKNeKAzuk67FFQ=
+
+Name: res/drawable-ldpi/ic_edit.png
+SHA1-Digest: KeXIX9bBgm/xhfghOGtN3S8pRgk=
+
+Name: res/drawable-mdpi/ic_mosque.png
+SHA1-Digest: xZhTWGZgLL5yu/G+FWmyw+k9Bdg=
+
+Name: res/drawable-hdpi/ic_city_point.png
+SHA1-Digest: OMy/vub1NuwZg6azLeHIN4uGQ9s=
+
+Name: res/layout/railcrossing.xml
+SHA1-Digest: WTGr7I7GF2GsDaRyEfxtZtdPOz4=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: TbfWWjPhxCDz29QNOBPc9vcDWaQ=
+
+Name: res/drawable-ldpi/ic_restaurant.png
+SHA1-Digest: 5Bnr9EaJQMPV6wcxi9gCcP0Jrco=
+
+Name: res/layout/view_details.xml
+SHA1-Digest: Xc01DIG3dGHfOqn+nz93oD0PB9I=
+
+Name: res/drawable-mdpi/ic_edit.png
+SHA1-Digest: g2BmtVOsby5CrW7Z7du3+xsZ9zg=
+
+Name: res/drawable-mdpi/ic_stadium.png
+SHA1-Digest: +MIRaOQb/ISGV+77X6Qw6u91Qns=
+
+Name: res/drawable-hdpi/ic_edit.png
+SHA1-Digest: ksdVZZ7ERKICxQmaxA6y4UCgVrs=
+
+Name: res/layout/charch.xml
+SHA1-Digest: UJ0Pi8gemfTiRWujCidc+1tm/Uc=
+
+Name: res/drawable-mdpi/ic_shops.png
+SHA1-Digest: q+WLTzeHexnL77e0U5zCMAwCNCM=
+
+Name: res/drawable-xhdpi/ic_ward_head.png
+SHA1-Digest: 5h5DLIXRQIgsZM5b7VDgokHHHeI=
+
+Name: res/drawable-xhdpi/ic_mosque.png
+SHA1-Digest: DTKmgNHThbKjlTqmKWofLQqmIlk=
+
+Name: res/layout/others.xml
+SHA1-Digest: 6mt+Yd8loQTDytzUBlpAvLtW+/E=
+
+Name: res/drawable-ldpi/ic_chemist.png
+SHA1-Digest: sz+iSJbIp/w1evJoBqIuIk0TyXs=
+
+Name: res/drawable-ldpi/ic_water_point.png
+SHA1-Digest: SEornZsp3hM4HumhvctFeexC5Vw=
+
+Name: res/layout/street.xml
+SHA1-Digest: hCI3uWlUIV56EpQYfyBK7M2yZi4=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 60XB3ns8CbmxOpaRj3oOQ3X2Ocs=
+
+Name: res/layout/school.xml
+SHA1-Digest: vNJQFuUhF0m6dXc36IPteybppWk=
+
+Name: res/drawable-mdpi/ic_rail_crossing.png
+SHA1-Digest: fqTmcoRzs5enLDXQOGnD0dtpIg8=
+
+Name: res/layout/stadium.xml
+SHA1-Digest: G68rNsSDqh3ozWpcBF4jLaZkS40=
+

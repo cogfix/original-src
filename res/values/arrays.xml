@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phss_schoo_array">
+        <item>PRIMARY</item>
+        <item>SECONDARY</item>
+        <item>COLLAGE</item>
+        <item>UNIVERSITY</item>
+        <item>MADRASSA</item>
+        <item>QURANIC SCHOOL</item>
+        <item>SCHOOL OF TECHNOLOGY</item>
+        <item>SCHOOL OF NURSING</item>
+        <item>OTHERS</item>
+    </string-array>
+    <string-array name="phss_health_array">
+        <item>HOSPITAL</item>
+        <item>PRIMARY HEALTH CARE CENTER (PHC)</item>
+        <item>HEALTH POST (HP)</item>
+        <item>COMPREHENSIVE HEALTH CENTER (CHC)</item>
+        <item>HEALTH CENTER(HC)</item>
+        <item>MATERNITY CENTER (MC)</item>
+        <item>FEDERAL MEDICAL CENTER</item>
+        <item>PRIVATE CLINIC</item>
+        <item>PRIVATE HOSPITAL</item>
+        <item>PRIVATE LAB/DIAGNOSTIC CENTER</item>
+        <item>OTHERS</item>
+    </string-array>
+    <string-array name="phss_buildings_array">
+        <item>EMIR PALACE</item>
+        <item>LGA SECRETARIAT</item>
+        <item>GOVERNOR HOUSE</item>
+        <item>STATE SECRETARIAT</item>
+        <item>VILLAGE GATE</item>
+        <item>HOTEL</item>
+        <item>STATE VACCINE STORE</item>
+        <item>LGA VACCINE STORE</item>
+        <item>SUPERMARKET</item>
+        <item>TV/RADIO STATION</item>
+        <item>POST OFFICE</item>
+        <item>CITY GATE</item>
+        <item>MOBILE PHONE TOWER</item>
+        <item>BANK</item>
+        <item>OTHERS</item>
+    </string-array>
+    <string-array name="phss_waterpoint_array">
+        <item>BORE HOLE</item>
+        <item>WELL</item>
+        <item>OPEN RESERVOIR</item>
+        <item>LAKE</item>
+        <item>RIVER</item>
+        <item>WATER TOWER</item>
+        <item>OTHERS</item>
+    </string-array>
+    <string-array name="phss_state_array">
+        <item>BORNO</item>
+        <item>JIGAWA</item>
+        <item>KANO</item>
+        <item>KATSINA</item>
+        <item>KEBBI</item>
+        <item>SOKOTO</item>
+        <item>YOBE</item>
+        <item>ZAMFARA</item>
+    </string-array>
+    <string-array name="phss_risk_array">
+        <item>VERY HIGH RISK</item>
+        <item>HIGH RISK</item>
+        <item>LOW RISK</item>
+    </string-array>
+    <string-array name="phss_state_location_array">
+        <item>URBAN</item>
+        <item>RURAL</item>
+        <item>SEMI URBAN</item>
+        <item>HAMLET</item>
+        <item>MIGRANT</item>
+    </string-array>
+    <string-array name="phss_state_type_array">
+        <item>NEW</item>
+        <item>OLD MICROPLAN</item>
+    </string-array>
+    <string-array name="phss_state_hardtoreach_array">
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="phss_state_reason_hardtoreach_array">
+        <item>SANDY</item>
+        <item>ROCKY</item>
+        <item>LIMITED ACCESS DURING RAINY SEASON</item>
+        <item>OTHERS</item>
+    </string-array>
+</resources>

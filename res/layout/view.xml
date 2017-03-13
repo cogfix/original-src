@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:id="@id/textView101" android:layout_width="-2" android:layout_height="-2" android:text="Total number of Settlement saved:" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+            <TextView android:id="@id/total" android:padding="5dp" android:layout_width="-2" android:layout_height="-2" />
+            <ListView android:id="@id/list" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="@id/buttonBack" android:layout_width="-1" android:layout_height="-2" android:text="@string/back" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

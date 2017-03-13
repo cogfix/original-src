@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:id="@id/sync" android:title="Transmite" />
+    <item android:icon="@drawable/ic_edit" android:id="@id/view_edit" android:title="View/Edite" />
+    <item android:id="@id/summaryMenu" android:title="Summary" />
+</menu>

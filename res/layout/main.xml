@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ImageView android:layout_gravity="1" android:id="@id/imageView1" android:paddingTop="100dp" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/phss" />
+    <ProgressBar android:layout_gravity="1" android:id="@id/progressBar1" android:paddingTop="10dp" android:layout_width="-2" android:layout_height="-2" />
+    <TextView android:layout_gravity="1" android:id="@id/textView1" android:paddingTop="15dp" android:layout_width="-2" android:layout_height="-2" android:text="@string/initState" />
+</LinearLayout>

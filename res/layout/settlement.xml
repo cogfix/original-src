@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:id="@id/textView101" android:layout_width="-2" android:layout_height="-2" android:text="Total number of Settlement saved:" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+    <ScrollView android:id="@id/ScrollView02" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <CheckBox android:id="@id/chksameAsBefore" android:layout_width="-2" android:layout_height="-2" android:text="@string/same_as_before" android:layout_alignParentLeft="true" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView20" android:layout_width="-2" android:layout_height="-2" android:text="Phss Team code" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editTextPhssTeamCode" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView20" android:layout_alignParentLeft="true" android:inputType="2" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView1" android:layout_width="-2" android:layout_height="-2" android:text="@string/state" android:width="200dp" android:layout_alignParentLeft="true" />
+                <Spinner android:id="@id/spinnerState" android:layout_width="200dp" android:layout_height="-2" android:layout_below="@id/textView1" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView2" android:layout_width="-2" android:layout_height="-2" android:text="@string/stateCode" android:width="200dp" android:layout_toRightOf="@id/textView1" />
+                <EditText android:enabled="false" android:id="@id/editTextStateCode" android:layout_width="-2" android:layout_height="-2" android:width="200dp" android:layout_toRightOf="@id/spinnerState" android:layout_below="@id/textView2" android:inputType="2" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView3" android:layout_width="-2" android:layout_height="-2" android:text="@string/lga" android:width="200dp" android:layout_alignParentLeft="true" />
+                <Spinner android:id="@id/spinnerLga" android:layout_width="200dp" android:layout_height="-2" android:layout_below="@id/textView3" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView4" android:layout_width="-2" android:layout_height="-2" android:text="@string/lgaCode" android:width="200dp" android:layout_toRightOf="@id/textView3" />
+                <EditText android:enabled="false" android:id="@id/editTextLgaCode" android:layout_width="-2" android:layout_height="-2" android:width="200dp" android:layout_toRightOf="@id/spinnerLga" android:layout_below="@id/textView4" android:inputType="2" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView5" android:layout_width="-2" android:layout_height="-2" android:text="@string/ward" android:width="200dp" android:layout_alignParentLeft="true" />
+                <Spinner android:id="@id/spinnerWard" android:layout_width="200dp" android:layout_height="-2" android:layout_below="@id/textView5" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView6" android:layout_width="-2" android:layout_height="-2" android:text="@string/wcode" android:width="200dp" android:layout_toRightOf="@id/textView5" />
+                <EditText android:enabled="false" android:id="@id/editTextWardCode" android:layout_width="-2" android:layout_height="-2" android:width="200dp" android:layout_toRightOf="@id/spinnerWard" android:layout_below="@id/textView6" android:inputType="2" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textSettlementView" android:layout_width="-2" android:layout_height="-2" android:text="Settlement" android:layout_alignParentLeft="true" />
+                <Spinner android:id="@id/spinnerSettlement" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textSettlementView" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView7" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementName" android:layout_below="@id/spinnerSettlement" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editTextSettlementName" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView7" android:layout_alignParentLeft="true" android:inputType="1001" />
+                <TextView android:id="@id/textView8" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementOtherName" android:layout_below="@id/editTextSettlementName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editTextSettlementOtherName" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView8" android:layout_alignParentLeft="true" android:inputType="1001" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView19" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementPopulation" android:layout_below="@id/editTextSettlementName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editTextSettlementPopulation" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView19" android:layout_alignParentLeft="true" android:inputType="2002" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView9" android:layout_width="-2" android:layout_height="-2" android:text="@string/location" android:width="180dp" android:layout_alignParentLeft="true" />
+                <Spinner android:id="@id/spinnerLocation" android:layout_width="180dp" android:layout_height="-2" android:layout_below="@id/textView9" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView10" android:layout_width="-2" android:layout_height="-2" android:text="@string/type" android:width="200dp" android:layout_toRightOf="@id/textView9" />
+                <Spinner android:id="@id/spinnerType" android:layout_width="150dp" android:layout_height="-2" android:layout_toRightOf="@id/spinnerLocation" android:layout_below="@id/textView10" />
+                <TextView android:id="@id/textView11" android:layout_width="-2" android:layout_height="-2" android:text="@string/risk" android:width="200dp" android:layout_below="@id/spinnerType" android:layout_alignParentLeft="true" />
+                <Spinner android:id="@id/spinnerRisk" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView11" android:layout_alignParentLeft="true" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView12" android:layout_width="-2" android:layout_height="-2" android:text="@string/hardToReach" android:width="100dp" android:layout_alignParentLeft="true" />
+                <Spinner android:id="@id/spinnerHardToReach" android:layout_width="100dp" android:layout_height="-2" android:layout_below="@id/textView12" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView13" android:layout_width="-2" android:layout_height="-2" android:text="@string/resoneForFardToReach" android:width="200dp" android:layout_toRightOf="@id/textView12" android:layout_below="@id/textView11" />
+                <Spinner android:id="@id/spinnerReasoneHardToReach" android:layout_width="250dp" android:layout_height="-2" android:layout_toRightOf="@id/spinnerHardToReach" android:layout_below="@id/textView13" />
+                <TextView android:id="@id/textView14" android:layout_width="-2" android:layout_height="-2" android:text="@string/resoneForFardToReach" android:width="200dp" android:layout_below="@id/spinnerReasoneHardToReach" android:layout_alignParentLeft="true" />
+                <EditText android:enabled="false" android:id="@id/editTextSpacifyReasonHardToReach" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView14" android:layout_alignParentLeft="true" android:inputType="1001" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="5dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView15" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementHeadName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editTextSettlementHeadName" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView15" android:layout_alignParentLeft="true" android:inputType="1001" />
+                <TextView android:id="@id/textView16" android:layout_width="-2" android:layout_height="-2" android:text="@string/settlementHeadPhone" android:layout_below="@id/editTextSettlementHeadName" android:layout_alignParentLeft="true" />
+                <EditText android:id="@id/editTextSettlementHeadPhone" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/textView16" android:layout_alignParentLeft="true" android:inputType="3" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="@id/textView17" android:layout_width="-2" android:layout_height="-2" android:text="@string/lati" android:width="150dp" android:layout_alignParentLeft="true" />
+                <EditText android:enabled="false" android:id="@id/editTextSettlementLatitude" android:layout_width="-2" android:layout_height="-2" android:width="150dp" android:layout_below="@id/textView17" android:layout_alignParentLeft="true" />
+                <TextView android:id="@id/textView18" android:layout_width="-2" android:layout_height="-2" android:text="@string/longi" android:layout_toRightOf="@id/textView17" />
+                <EditText android:enabled="false" android:id="@id/editTextSettlementLongitude" android:layout_width="-2" android:layout_height="-2" android:width="200dp" android:layout_toRightOf="@id/editTextSettlementLatitude" android:layout_below="@id/textView18" />
+            </RelativeLayout>
+            <RelativeLayout android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+                <Button android:id="@id/buttonLocation" android:layout_width="-2" android:layout_height="-2" android:text="@string/getLocation" android:width="150dp" android:layout_alignParentLeft="true" />
+                <Button android:id="@id/buttonContinue" android:layout_width="-2" android:layout_height="-2" android:text="@string/continu" android:width="150dp" android:layout_toRightOf="@id/buttonLocation" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

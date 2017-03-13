@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="@id/textViewTitle" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="@id/textViewTotalRows" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="@id/textViewTotalSettlement" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="@id/textViewTotalSyncedlRows" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="@id/textViewTotalUnSyncedlRows" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" />
+</LinearLayout>
